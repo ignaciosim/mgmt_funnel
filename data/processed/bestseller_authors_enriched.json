@@ -1,0 +1,747 @@
+[
+  {
+    "name": "Adam Grant",
+    "affiliation": "Wharton / University of Pennsylvania",
+    "tier": 1,
+    "origin": "academic",
+    "in_academic_journals": true,
+    "in_hbr_smr": true,
+    "books": [
+      "Give and Take",
+      "Originals",
+      "Think Again",
+      "Hidden Potential"
+    ]
+  },
+  {
+    "name": "Amy Edmondson",
+    "affiliation": "Harvard Business School",
+    "tier": 1,
+    "origin": "academic",
+    "in_academic_journals": true,
+    "in_hbr_smr": true,
+    "books": [
+      "Teaming",
+      "The Right Kind of Wrong"
+    ]
+  },
+  {
+    "name": "Clayton Christensen",
+    "affiliation": "Harvard Business School",
+    "tier": 1,
+    "origin": "academic",
+    "in_academic_journals": true,
+    "in_hbr_smr": true,
+    "books": [
+      "The Innovator's Dilemma"
+    ]
+  },
+  {
+    "name": "Michael Porter",
+    "affiliation": "Harvard Business School",
+    "tier": 1,
+    "origin": "academic",
+    "in_academic_journals": true,
+    "in_hbr_smr": true,
+    "books": [
+      "Competitive Strategy"
+    ]
+  },
+  {
+    "name": "Gary Hamel",
+    "affiliation": "London Business School",
+    "tier": 1,
+    "origin": "academic",
+    "in_academic_journals": true,
+    "in_hbr_smr": true,
+    "books": [
+      "The Future of Management",
+      "Humanocracy"
+    ]
+  },
+  {
+    "name": "Jeffrey Pfeffer",
+    "affiliation": "Stanford University",
+    "tier": 1,
+    "origin": "academic",
+    "in_academic_journals": true,
+    "in_hbr_smr": true,
+    "books": [
+      "The Knowing-Doing Gap"
+    ]
+  },
+  {
+    "name": "Robert Sutton",
+    "affiliation": "Stanford University",
+    "tier": 1,
+    "origin": "academic",
+    "in_academic_journals": true,
+    "in_hbr_smr": true,
+    "books": [
+      "The No Asshole Rule"
+    ]
+  },
+  {
+    "name": "Dan Ariely",
+    "affiliation": "Duke University",
+    "tier": 1,
+    "origin": "academic",
+    "in_academic_journals": true,
+    "in_hbr_smr": true,
+    "books": [
+      "Predictably Irrational"
+    ]
+  },
+  {
+    "name": "Herminia Ibarra",
+    "affiliation": "London Business School",
+    "tier": 1,
+    "origin": "academic",
+    "in_academic_journals": true,
+    "in_hbr_smr": true,
+    "books": [
+      "Act Like a Leader, Think Like a Leader"
+    ]
+  },
+  {
+    "name": "Richard Thaler",
+    "affiliation": "University of Chicago",
+    "tier": 1,
+    "origin": "academic",
+    "in_academic_journals": true,
+    "in_hbr_smr": true,
+    "books": [
+      "Nudge"
+    ]
+  },
+  {
+    "name": "Andrew McAfee",
+    "affiliation": "MIT Sloan",
+    "tier": 1,
+    "origin": "academic",
+    "in_academic_journals": true,
+    "in_hbr_smr": true,
+    "books": [
+      "The Second Machine Age"
+    ]
+  },
+  {
+    "name": "Marshall Van Alstyne",
+    "affiliation": "Boston University",
+    "tier": 2,
+    "origin": "academic",
+    "in_academic_journals": true,
+    "in_hbr_smr": true,
+    "books": [
+      "Platform Revolution"
+    ]
+  },
+  {
+    "name": "Erik Brynjolfsson",
+    "affiliation": "Stanford University",
+    "tier": 1,
+    "origin": "academic",
+    "in_academic_journals": true,
+    "in_hbr_smr": false,
+    "books": [
+      "The Second Machine Age"
+    ]
+  },
+  {
+    "name": "David Teece",
+    "affiliation": "UC Berkeley",
+    "tier": 1,
+    "origin": "academic",
+    "in_academic_journals": true,
+    "in_hbr_smr": false,
+    "books": [
+      "Dynamic Capabilities"
+    ]
+  },
+  {
+    "name": "Angela Duckworth",
+    "affiliation": "University of Pennsylvania",
+    "tier": 1,
+    "origin": "academic",
+    "in_academic_journals": true,
+    "in_hbr_smr": false,
+    "books": [
+      "Grit"
+    ]
+  },
+  {
+    "name": "Barry Nalebuff",
+    "affiliation": "Yale University",
+    "tier": 1,
+    "origin": "academic",
+    "in_academic_journals": true,
+    "in_hbr_smr": false,
+    "books": [
+      "Co-Opetition"
+    ]
+  },
+  {
+    "name": "Adam Brandenburger",
+    "affiliation": "NYU Stern",
+    "tier": 1,
+    "origin": "academic",
+    "in_academic_journals": true,
+    "in_hbr_smr": false,
+    "books": [
+      "Co-Opetition"
+    ]
+  },
+  {
+    "name": "Roger Martin",
+    "affiliation": "Rotman / University of Toronto",
+    "tier": 2,
+    "origin": "academic",
+    "in_academic_journals": true,
+    "in_hbr_smr": false,
+    "books": [
+      "Playing to Win"
+    ]
+  },
+  {
+    "name": "Daniel Kahneman",
+    "affiliation": "Princeton University",
+    "tier": 1,
+    "origin": "academic",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "Thinking, Fast and Slow"
+    ]
+  },
+  {
+    "name": "Peter Senge",
+    "affiliation": "MIT Sloan",
+    "tier": 1,
+    "origin": "academic",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "The Fifth Discipline"
+    ]
+  },
+  {
+    "name": "Jim Collins",
+    "affiliation": "Stanford GSB (former)",
+    "tier": 1,
+    "origin": "academic",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "Good to Great",
+      "Built to Last"
+    ]
+  },
+  {
+    "name": "Bren\u00e9 Brown",
+    "affiliation": "University of Houston",
+    "tier": 3,
+    "origin": "academic",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "Dare to Lead"
+    ]
+  },
+  {
+    "name": "Erin Meyer",
+    "affiliation": "INSEAD",
+    "tier": 1,
+    "origin": "academic",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "No Rules Rules"
+    ]
+  },
+  {
+    "name": "Stanley McChrystal",
+    "affiliation": "US Military / Yale",
+    "tier": 1,
+    "origin": "academic",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "Team of Teams"
+    ]
+  },
+  {
+    "name": "W. Chan Kim",
+    "affiliation": "INSEAD",
+    "tier": 1,
+    "origin": "academic",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "Blue Ocean Strategy"
+    ]
+  },
+  {
+    "name": "Ren\u00e9e Mauborgne",
+    "affiliation": "INSEAD",
+    "tier": 1,
+    "origin": "academic",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "Blue Ocean Strategy"
+    ]
+  },
+  {
+    "name": "Vijay Govindarajan",
+    "affiliation": "Dartmouth / Tuck",
+    "tier": 1,
+    "origin": "academic",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "Reverse Innovation"
+    ]
+  },
+  {
+    "name": "Cass Sunstein",
+    "affiliation": "Harvard Law School",
+    "tier": 1,
+    "origin": "academic",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "Nudge"
+    ]
+  },
+  {
+    "name": "Robert Kegan",
+    "affiliation": "Harvard GSE",
+    "tier": 1,
+    "origin": "academic",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "An Everyone Culture"
+    ]
+  },
+  {
+    "name": "Lisa Lahey",
+    "affiliation": "Harvard GSE",
+    "tier": 1,
+    "origin": "academic",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "An Everyone Culture"
+    ]
+  },
+  {
+    "name": "Jerry Porras",
+    "affiliation": "Stanford GSB",
+    "tier": 1,
+    "origin": "academic",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "Built to Last"
+    ]
+  },
+  {
+    "name": "Geoffrey Parker",
+    "affiliation": "Dartmouth",
+    "tier": 1,
+    "origin": "academic",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "Platform Revolution"
+    ]
+  },
+  {
+    "name": "Simon Sinek",
+    "affiliation": "Independent / Author",
+    "tier": 3,
+    "origin": "practitioner",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "Start with Why",
+      "Leaders Eat Last",
+      "The Infinite Game"
+    ]
+  },
+  {
+    "name": "Daniel H. Pink",
+    "affiliation": "Independent / Author",
+    "tier": 3,
+    "origin": "practitioner",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "Drive"
+    ]
+  },
+  {
+    "name": "Eric Ries",
+    "affiliation": "Entrepreneur",
+    "tier": 3,
+    "origin": "practitioner",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "The Lean Startup"
+    ]
+  },
+  {
+    "name": "James Clear",
+    "affiliation": "Independent / Author",
+    "tier": 3,
+    "origin": "practitioner",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "Atomic Habits"
+    ]
+  },
+  {
+    "name": "Reed Hastings",
+    "affiliation": "Netflix CEO",
+    "tier": 3,
+    "origin": "practitioner",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "No Rules Rules"
+    ]
+  },
+  {
+    "name": "Ben Horowitz",
+    "affiliation": "Andreessen Horowitz",
+    "tier": 3,
+    "origin": "practitioner",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "The Hard Thing About Hard Things"
+    ]
+  },
+  {
+    "name": "Ray Dalio",
+    "affiliation": "Bridgewater",
+    "tier": 3,
+    "origin": "practitioner",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "Principles"
+    ]
+  },
+  {
+    "name": "Kim Scott",
+    "affiliation": "Apple/Google (former)",
+    "tier": 3,
+    "origin": "practitioner",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "Radical Candor"
+    ]
+  },
+  {
+    "name": "Ed Catmull",
+    "affiliation": "Pixar",
+    "tier": 3,
+    "origin": "practitioner",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "Creativity, Inc."
+    ]
+  },
+  {
+    "name": "Phil Knight",
+    "affiliation": "Nike",
+    "tier": 3,
+    "origin": "practitioner",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "Shoe Dog"
+    ]
+  },
+  {
+    "name": "John Doerr",
+    "affiliation": "Kleiner Perkins",
+    "tier": 3,
+    "origin": "practitioner",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "Measure What Matters"
+    ]
+  },
+  {
+    "name": "Charles Duhigg",
+    "affiliation": "Journalist",
+    "tier": 3,
+    "origin": "practitioner",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "The Power of Habit"
+    ]
+  },
+  {
+    "name": "David Epstein",
+    "affiliation": "Journalist",
+    "tier": 3,
+    "origin": "practitioner",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "Range"
+    ]
+  },
+  {
+    "name": "Daniel Coyle",
+    "affiliation": "Author",
+    "tier": 3,
+    "origin": "practitioner",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "The Culture Code"
+    ]
+  },
+  {
+    "name": "Liz Wiseman",
+    "affiliation": "Independent consultant",
+    "tier": 3,
+    "origin": "practitioner",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "Multipliers"
+    ]
+  },
+  {
+    "name": "Marcus Buckingham",
+    "affiliation": "ADP Research Institute",
+    "tier": 3,
+    "origin": "practitioner",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "Nine Lies About Work"
+    ]
+  },
+  {
+    "name": "Marshall Goldsmith",
+    "affiliation": "Independent",
+    "tier": 3,
+    "origin": "practitioner",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "What Got You Here Won't Get You There"
+    ]
+  },
+  {
+    "name": "Ram Charan",
+    "affiliation": "Independent consultant",
+    "tier": 3,
+    "origin": "practitioner",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "Execution"
+    ]
+  },
+  {
+    "name": "Spencer Johnson",
+    "affiliation": "Independent / Author",
+    "tier": 3,
+    "origin": "practitioner",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "Who Moved My Cheese"
+    ]
+  },
+  {
+    "name": "Patty McCord",
+    "affiliation": "Netflix (former)",
+    "tier": 3,
+    "origin": "practitioner",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "Powerful"
+    ]
+  },
+  {
+    "name": "A.G. Lafley",
+    "affiliation": "P&G CEO",
+    "tier": 3,
+    "origin": "practitioner",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "Playing to Win"
+    ]
+  },
+  {
+    "name": "Larry Bossidy",
+    "affiliation": "Honeywell CEO",
+    "tier": 3,
+    "origin": "practitioner",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "Execution"
+    ]
+  },
+  {
+    "name": "Andy Grove",
+    "affiliation": "Intel / Stanford",
+    "tier": 1,
+    "origin": "practitioner",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "Only the Paranoid Survive"
+    ]
+  },
+  {
+    "name": "Will Guidara",
+    "affiliation": "Restaurateur",
+    "tier": 3,
+    "origin": "practitioner",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "Unreasonable Hospitality"
+    ]
+  },
+  {
+    "name": "William Thorndike",
+    "affiliation": "Investor",
+    "tier": 3,
+    "origin": "practitioner",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "The Outsiders"
+    ]
+  },
+  {
+    "name": "Frank Slootman",
+    "affiliation": "Snowflake CEO",
+    "tier": 3,
+    "origin": "practitioner",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "Amp It Up"
+    ]
+  },
+  {
+    "name": "Thomas Siebel",
+    "affiliation": "C3.ai CEO",
+    "tier": 3,
+    "origin": "practitioner",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "Digital Transformation"
+    ]
+  },
+  {
+    "name": "Safi Bahcall",
+    "affiliation": "Physicist / entrepreneur",
+    "tier": 3,
+    "origin": "practitioner",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "Loonshots"
+    ]
+  },
+  {
+    "name": "Michael Raynor",
+    "affiliation": "Deloitte / Independent",
+    "tier": 3,
+    "origin": "practitioner",
+    "in_academic_journals": true,
+    "in_hbr_smr": true,
+    "books": [
+      "The Strategy Paradox"
+    ]
+  },
+  {
+    "name": "Ashley Goodall",
+    "affiliation": "Cisco",
+    "tier": 3,
+    "origin": "practitioner",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "Nine Lies About Work"
+    ]
+  },
+  {
+    "name": "Tim Ferriss",
+    "affiliation": "Independent / Author",
+    "tier": 3,
+    "origin": "practitioner",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "The 4-Hour Workweek"
+    ]
+  },
+  {
+    "name": "Ali Tamaseb",
+    "affiliation": "VC",
+    "tier": 3,
+    "origin": "practitioner",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "Super Founders"
+    ]
+  },
+  {
+    "name": "Michele Zanini",
+    "affiliation": "Management Lab",
+    "tier": 3,
+    "origin": "practitioner",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "Humanocracy"
+    ]
+  },
+  {
+    "name": "Sangeet Paul Choudary",
+    "affiliation": "Independent",
+    "tier": 3,
+    "origin": "practitioner",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "Platform Revolution"
+    ]
+  },
+  {
+    "name": "Robert Kaplan",
+    "affiliation": "Harvard Business School",
+    "tier": 1,
+    "origin": "academic",
+    "in_academic_journals": false,
+    "in_hbr_smr": false,
+    "books": [
+      "The Balanced Scorecard"
+    ]
+  }
+]

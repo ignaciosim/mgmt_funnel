@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+
+# Excluded from repo: too large for GitHub (>100 MB hard limit).
+# Regenerate via collect_openalex.py and build_network.py.
+data/raw/works_raw.json
+data/processed/citation_network.graphml

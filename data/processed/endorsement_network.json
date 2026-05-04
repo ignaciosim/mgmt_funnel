@@ -1,0 +1,317 @@
+{
+  "endorsements": [
+    {
+      "book": "Give and Take",
+      "author": "Adam Grant",
+      "endorser": "Susan Cain",
+      "endorser_affiliation": "Author of Quiet"
+    },
+    {
+      "book": "Give and Take",
+      "author": "Adam Grant",
+      "endorser": "Robert Cialdini",
+      "endorser_affiliation": "Arizona State University"
+    },
+    {
+      "book": "Give and Take",
+      "author": "Adam Grant",
+      "endorser": "Dan Ariely",
+      "endorser_affiliation": "Duke University"
+    },
+    {
+      "book": "Give and Take",
+      "author": "Adam Grant",
+      "endorser": "Jeffrey Pfeffer",
+      "endorser_affiliation": "Stanford University"
+    },
+    {
+      "book": "Think Again",
+      "author": "Adam Grant",
+      "endorser": "Daniel Kahneman",
+      "endorser_affiliation": "Princeton University"
+    },
+    {
+      "book": "Think Again",
+      "author": "Adam Grant",
+      "endorser": "Bren\u00e9 Brown",
+      "endorser_affiliation": "University of Houston"
+    },
+    {
+      "book": "Think Again",
+      "author": "Adam Grant",
+      "endorser": "Daniel H. Pink",
+      "endorser_affiliation": "Author"
+    },
+    {
+      "book": "Think Again",
+      "author": "Adam Grant",
+      "endorser": "Malcolm Gladwell",
+      "endorser_affiliation": "Author"
+    },
+    {
+      "book": "Think Again",
+      "author": "Adam Grant",
+      "endorser": "Ray Dalio",
+      "endorser_affiliation": "Bridgewater"
+    },
+    {
+      "book": "Think Again",
+      "author": "Adam Grant",
+      "endorser": "Sheryl Sandberg",
+      "endorser_affiliation": "Facebook/Meta"
+    },
+    {
+      "book": "Originals",
+      "author": "Adam Grant",
+      "endorser": "Sheryl Sandberg",
+      "endorser_affiliation": "Facebook/Meta (wrote foreword)"
+    },
+    {
+      "book": "Originals",
+      "author": "Adam Grant",
+      "endorser": "Daniel Kahneman",
+      "endorser_affiliation": "Princeton University"
+    },
+    {
+      "book": "Originals",
+      "author": "Adam Grant",
+      "endorser": "Robert Sutton",
+      "endorser_affiliation": "Stanford University"
+    },
+    {
+      "book": "Hidden Potential",
+      "author": "Adam Grant",
+      "endorser": "Bren\u00e9 Brown",
+      "endorser_affiliation": "University of Houston"
+    },
+    {
+      "book": "Hidden Potential",
+      "author": "Adam Grant",
+      "endorser": "Angela Duckworth",
+      "endorser_affiliation": "University of Pennsylvania"
+    },
+    {
+      "book": "Hidden Potential",
+      "author": "Adam Grant",
+      "endorser": "Daniel H. Pink",
+      "endorser_affiliation": "Author"
+    },
+    {
+      "book": "The Right Kind of Wrong",
+      "author": "Amy Edmondson",
+      "endorser": "Adam Grant",
+      "endorser_affiliation": "Wharton"
+    },
+    {
+      "book": "The Right Kind of Wrong",
+      "author": "Amy Edmondson",
+      "endorser": "Daniel H. Pink",
+      "endorser_affiliation": "Author"
+    },
+    {
+      "book": "The Right Kind of Wrong",
+      "author": "Amy Edmondson",
+      "endorser": "Tom Peters",
+      "endorser_affiliation": "Author"
+    },
+    {
+      "book": "The Right Kind of Wrong",
+      "author": "Amy Edmondson",
+      "endorser": "Tim Harford",
+      "endorser_affiliation": "Author"
+    },
+    {
+      "book": "The Fearless Organization",
+      "author": "Amy Edmondson",
+      "endorser": "Adam Grant",
+      "endorser_affiliation": "Wharton"
+    },
+    {
+      "book": "The Fearless Organization",
+      "author": "Amy Edmondson",
+      "endorser": "Gary Hamel",
+      "endorser_affiliation": "London Business School"
+    },
+    {
+      "book": "The Innovator's Dilemma",
+      "author": "Clayton Christensen",
+      "endorser": "Michael Bloomberg",
+      "endorser_affiliation": "Bloomberg LP"
+    },
+    {
+      "book": "The Innovator's Dilemma",
+      "author": "Clayton Christensen",
+      "endorser": "Andy Grove",
+      "endorser_affiliation": "Intel"
+    },
+    {
+      "book": "How Will You Measure Your Life",
+      "author": "Clayton Christensen",
+      "endorser": "Stephen Covey",
+      "endorser_affiliation": "Author"
+    },
+    {
+      "book": "Grit",
+      "author": "Angela Duckworth",
+      "endorser": "Daniel Kahneman",
+      "endorser_affiliation": "Princeton University"
+    },
+    {
+      "book": "Grit",
+      "author": "Angela Duckworth",
+      "endorser": "Malcolm Gladwell",
+      "endorser_affiliation": "Author"
+    },
+    {
+      "book": "Grit",
+      "author": "Angela Duckworth",
+      "endorser": "Adam Grant",
+      "endorser_affiliation": "Wharton"
+    },
+    {
+      "book": "Grit",
+      "author": "Angela Duckworth",
+      "endorser": "Dan Ariely",
+      "endorser_affiliation": "Duke University"
+    },
+    {
+      "book": "Dare to Lead",
+      "author": "Bren\u00e9 Brown",
+      "endorser": "Adam Grant",
+      "endorser_affiliation": "Wharton"
+    },
+    {
+      "book": "Dare to Lead",
+      "author": "Bren\u00e9 Brown",
+      "endorser": "Simon Sinek",
+      "endorser_affiliation": "Author"
+    },
+    {
+      "book": "Drive",
+      "author": "Daniel H. Pink",
+      "endorser": "Seth Godin",
+      "endorser_affiliation": "Author"
+    },
+    {
+      "book": "Drive",
+      "author": "Daniel H. Pink",
+      "endorser": "Tom Peters",
+      "endorser_affiliation": "Author"
+    },
+    {
+      "book": "Humanocracy",
+      "author": "Gary Hamel",
+      "endorser": "Amy Edmondson",
+      "endorser_affiliation": "Harvard Business School"
+    },
+    {
+      "book": "Humanocracy",
+      "author": "Gary Hamel",
+      "endorser": "Tom Peters",
+      "endorser_affiliation": "Author"
+    },
+    {
+      "book": "Humanocracy",
+      "author": "Gary Hamel",
+      "endorser": "Henry Mintzberg",
+      "endorser_affiliation": "McGill University"
+    },
+    {
+      "book": "The Knowing-Doing Gap",
+      "author": "Jeffrey Pfeffer",
+      "endorser": "Tom Peters",
+      "endorser_affiliation": "Author"
+    },
+    {
+      "book": "Power",
+      "author": "Jeffrey Pfeffer",
+      "endorser": "Robert Cialdini",
+      "endorser_affiliation": "Arizona State University"
+    },
+    {
+      "book": "The No Asshole Rule",
+      "author": "Robert Sutton",
+      "endorser": "Tom Peters",
+      "endorser_affiliation": "Author"
+    },
+    {
+      "book": "The No Asshole Rule",
+      "author": "Robert Sutton",
+      "endorser": "Jeffrey Pfeffer",
+      "endorser_affiliation": "Stanford University"
+    },
+    {
+      "book": "Good Boss Bad Boss",
+      "author": "Robert Sutton",
+      "endorser": "Adam Grant",
+      "endorser_affiliation": "Wharton"
+    },
+    {
+      "book": "Multipliers",
+      "author": "Liz Wiseman",
+      "endorser": "Stephen Covey",
+      "endorser_affiliation": "Author"
+    },
+    {
+      "book": "Multipliers",
+      "author": "Liz Wiseman",
+      "endorser": "Clayton Christensen",
+      "endorser_affiliation": "Harvard Business School"
+    },
+    {
+      "book": "Playing to Win",
+      "author": "Roger Martin",
+      "endorser": "Michael Porter",
+      "endorser_affiliation": "Harvard Business School"
+    },
+    {
+      "book": "Playing to Win",
+      "author": "Roger Martin",
+      "endorser": "Clayton Christensen",
+      "endorser_affiliation": "Harvard Business School"
+    },
+    {
+      "book": "Start with Why",
+      "author": "Simon Sinek",
+      "endorser": "Howard Schultz",
+      "endorser_affiliation": "Starbucks CEO"
+    },
+    {
+      "book": "The Infinite Game",
+      "author": "Simon Sinek",
+      "endorser": "Bren\u00e9 Brown",
+      "endorser_affiliation": "University of Houston"
+    },
+    {
+      "book": "No Rules Rules",
+      "author": "Erin Meyer",
+      "endorser": "Adam Grant",
+      "endorser_affiliation": "Wharton"
+    },
+    {
+      "book": "No Rules Rules",
+      "author": "Erin Meyer",
+      "endorser": "Daniel Coyle",
+      "endorser_affiliation": "Author"
+    },
+    {
+      "book": "Nudge",
+      "author": "Richard Thaler",
+      "endorser": "Daniel Kahneman",
+      "endorser_affiliation": "Princeton University"
+    },
+    {
+      "book": "The Second Machine Age",
+      "author": "Erik Brynjolfsson",
+      "endorser": "Clayton Christensen",
+      "endorser_affiliation": "Harvard Business School"
+    },
+    {
+      "book": "The Second Machine Age",
+      "author": "Erik Brynjolfsson",
+      "endorser": "Lawrence Summers",
+      "endorser_affiliation": "Harvard University"
+    }
+  ],
+  "note": "Hand-curated from publisher pages, Amazon, and public book marketing materials. Not exhaustive."
+}

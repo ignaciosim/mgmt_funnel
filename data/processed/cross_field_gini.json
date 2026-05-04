@@ -1,0 +1,163 @@
+{
+  "Economics": {
+    "gini": 0.6899990499737965,
+    "n_authors": 4804,
+    "n_works": 3492,
+    "top_1pct_share": 17.91895218675655,
+    "top_10pct_share": 54.86939270656903,
+    "journals": [
+      {
+        "short_name": "AER",
+        "full_name": "American Economic Review",
+        "issn": "0002-8282",
+        "n_works": 2000,
+        "n_authors": 3384,
+        "gini": 0.6529528293551309
+      },
+      {
+        "short_name": "QJE",
+        "full_name": "Quarterly Journal of Economics",
+        "issn": "0033-5533",
+        "n_works": 491,
+        "n_authors": 1110,
+        "gini": 0.7008300564193033
+      },
+      {
+        "short_name": "Econometrica",
+        "full_name": "Econometrica",
+        "issn": "0012-9682",
+        "n_works": 1001,
+        "n_authors": 1279,
+        "gini": 0.6178024093846126
+      }
+    ],
+    "time_window": "2015-2025",
+    "max_works_per_journal": 2000
+  },
+  "Sociology": {
+    "gini": 0.7945024288219754,
+    "n_authors": 2395,
+    "n_works": 2325,
+    "top_1pct_share": 13.409802387008412,
+    "top_10pct_share": 62.500815235113805,
+    "journals": [
+      {
+        "short_name": "ASR",
+        "full_name": "American Sociological Review",
+        "issn": "0003-1224",
+        "n_works": 480,
+        "n_authors": 785,
+        "gini": 0.5901785761791389
+      },
+      {
+        "short_name": "AJS",
+        "full_name": "American Journal of Sociology",
+        "issn": "0002-9602",
+        "n_works": 1845,
+        "n_authors": 1838,
+        "gini": 0.8618782824172411
+      }
+    ],
+    "time_window": "2015-2025",
+    "max_works_per_journal": 2000
+  },
+  "Engineering": {
+    "gini": 0.6274552081545545,
+    "n_authors": 14783,
+    "n_works": 5768,
+    "top_1pct_share": 15.434464243330309,
+    "top_10pct_share": 48.63809205841771,
+    "journals": [
+      {
+        "short_name": "IEEE-TIE",
+        "full_name": "IEEE Transactions on Industrial Electronics",
+        "issn": "0278-0046",
+        "n_works": 2000,
+        "n_authors": 5499,
+        "gini": 0.45755536364361954
+      },
+      {
+        "short_name": "JMfgSci",
+        "full_name": "Journal of Manufacturing Science and Engineering",
+        "issn": "1087-1357",
+        "n_works": 1768,
+        "n_authors": 4837,
+        "gini": 0.6517382409434825
+      },
+      {
+        "short_name": "IJPE",
+        "full_name": "International Journal of Production Economics",
+        "issn": "0925-5273",
+        "n_works": 2000,
+        "n_authors": 4530,
+        "gini": 0.6048123360982158
+      }
+    ],
+    "time_window": "2015-2025",
+    "max_works_per_journal": 2000
+  },
+  "Medicine": {
+    "gini": 0.6923193451978688,
+    "n_authors": 63873,
+    "n_works": 4000,
+    "top_1pct_share": 23.85589565996507,
+    "top_10pct_share": 58.975342031395286,
+    "journals": [
+      {
+        "short_name": "NEJM",
+        "full_name": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "n_works": 2000,
+        "n_authors": 29838,
+        "gini": 0.6077612382196343
+      },
+      {
+        "short_name": "Lancet",
+        "full_name": "The Lancet",
+        "issn": "0140-6736",
+        "n_works": 2000,
+        "n_authors": 39519,
+        "gini": 0.7337712064611868
+      }
+    ],
+    "time_window": "2015-2025",
+    "max_works_per_journal": 2000
+  },
+  "Psychology": {
+    "gini": 0.6969513931968024,
+    "n_authors": 4129,
+    "n_works": 2245,
+    "top_1pct_share": 14.639751390593581,
+    "top_10pct_share": 52.204841615961136,
+    "journals": [
+      {
+        "short_name": "PsychBull",
+        "full_name": "Psychological Bulletin",
+        "issn": "0033-2909",
+        "n_works": 245,
+        "n_authors": 515,
+        "gini": 0.750922017683915
+      },
+      {
+        "short_name": "JPSP",
+        "full_name": "Journal of Personality and Social Psychology",
+        "issn": "0022-3514",
+        "n_works": 2000,
+        "n_authors": 3665,
+        "gini": 0.6869157614377249
+      }
+    ],
+    "time_window": "2015-2025",
+    "max_works_per_journal": 2000
+  },
+  "Management": {
+    "gini": 0.758,
+    "n_authors": 31922,
+    "n_works": 34341,
+    "top_1pct_share": 21.1,
+    "top_10pct_share": 65.2,
+    "journals": "19 top management journals (see source_map.json)",
+    "time_window": "2005-2025",
+    "max_works_per_journal": "all"
+  }
+}
